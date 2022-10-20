@@ -81,7 +81,7 @@ namespace Cethleann.DataExporter
 
             if (fs == null)
             {
-                Logger.Error("Cethleann", "No FS specified! Prove --flayn, --reisalin, --leonhart, --mitsunari, --nyotengu, or --yshtola!");
+                Logger.Error("Cethleann", "No FS specified! Prove --linkdata, --pak, --linkarchive, --lnk, --rdb, or --pkg!");
                 return;
             }
 
